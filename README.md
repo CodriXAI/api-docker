@@ -11,7 +11,7 @@
 - Create an image
 
 
-## Instalation & Setup
+## Installation & Setup
 1. Clone the repository (Use SSH link, make the public key)
     ```
     git clone git@github.com:CodriXAI/api-docker.git
